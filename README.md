@@ -1,4 +1,4 @@
-<h1 align="center">I'am Kduroux</h1>
+<h1 align="center">I'm Kduroux</h1>
 <h3 align="center">French dev</h3>
 
 - 🌱 I’m currently learning **C, Nix, html, css and Vue**
